@@ -13,6 +13,9 @@ This project will output the following:
     2. Precision, Recall, F1 Score, CV Accuracy, CV Standard Deviation, and Runtime for each of the six models.
     3. Optimal hyper-parameters for each of the six models.
 
+## Data
+Data is not included in this GitHub repository. Please reach out to me if you would like to request data.
+
 ## Author
 * **Peter Hwang** - [pghwang](https://github.com/pghwang)
 
