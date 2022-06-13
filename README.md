@@ -10,9 +10,9 @@ The user will input two 16x16 pixel datasets
 This project will output the following:
 
     1. For each 16x16 activity image, a classification of the activity into seven classes (no activity, left step + right step, left step, right step, planking, push-up down, push-up up).
-    1. For each 16x16 yoga image, a classification of the activity into eight classes (no activity, balancing pigeon, dancers pose, eagle dristi, eagle pose, tree pose, warrior, standing).
-    2. Precision, Recall, F1 Score, CV Accuracy, CV Standard Deviation, and Runtime for each of the six models.
-    3. Optimal hyper-parameters for each of the six models.
+    2. For each 16x16 yoga image, a classification of the activity into eight classes (no activity, balancing pigeon, dancers pose, eagle dristi, eagle pose, tree pose, warrior, standing).
+    3. Precision, Recall, F1 Score, CV Accuracy, CV Standard Deviation, and Runtime for each of the six models.
+    4. Optimal hyper-parameters for each of the six models.
 
 ## Data
 Data is not included in this GitHub repository. Please reach out to me if you would like to request data.
